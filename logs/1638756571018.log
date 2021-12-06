@@ -1,0 +1,22 @@
+[12/6/2021, 2:09:31 AM] Generating routes...
+[12/6/2021, 2:09:31 AM] 2 modules found in src/modules, starting routes...
+[12/6/2021, 2:09:31 AM] Loading routes from auth...
+[12/6/2021, 2:09:32 AM] POST auth/login
+[12/6/2021, 2:09:32 AM] 1 route loaded from auth
+[12/6/2021, 2:09:32 AM] Loading routes from users...
+[12/6/2021, 2:09:32 AM] POST users/
+[12/6/2021, 2:09:32 AM] GET users/
+[12/6/2021, 2:09:32 AM] GET users/:id
+[12/6/2021, 2:09:32 AM] PATCH users/:id
+[12/6/2021, 2:09:32 AM] DELETE users/:id
+[12/6/2021, 2:09:32 AM] 5 routes loaded from users
+[12/6/2021, 2:09:32 AM] Server started on port 3001
+[12/6/2021, 2:10:11 AM] GET http://localhost:3001/users/5a1f0e10-7df7-4cd8-92b2-34d9181f04d7 insomnia/2021.6.0 ::ffff:172.18.0.1 {}
+[12/6/2021, 2:10:18 AM] GET http://localhost:3001/users/5a1f0e10-7df7-4cd8-92b2-34d9181f04d7 insomnia/2021.6.0 ::ffff:172.18.0.1 {}
+[12/6/2021, 2:10:25 AM] GET http://localhost:3001/users/5a1f0e10-7df7-4cd8-92b2-34d9181f04d7 insomnia/2021.6.0 ::ffff:172.18.0.1 {}
+[12/6/2021, 2:11:40 AM] PATCH http://localhost:3001/users/5a1f0e10-7df7-4cd8-92b2-34d9181f04d7 insomnia/2021.6.0 ::ffff:172.18.0.1 {"name":"new name"}
+[12/6/2021, 2:11:48 AM] PATCH http://localhost:3001/users/5a1f0e10-7df7-4cd8-92b2-34d9181f04d7 insomnia/2021.6.0 ::ffff:172.18.0.1 {"name":"new name"}
+[12/6/2021, 2:11:50 AM] GET http://localhost:3001/users/5a1f0e10-7df7-4cd8-92b2-34d9181f04d7 insomnia/2021.6.0 ::ffff:172.18.0.1 {}
+[12/6/2021, 2:12:11 AM] DELETE http://localhost:3001/users/5a1f0e10-7df7-4cd8-92b2-34d9181f04d7 insomnia/2021.6.0 ::ffff:172.18.0.1 {}
+[12/6/2021, 2:12:14 AM] GET http://localhost:3001/users insomnia/2021.6.0 ::ffff:172.18.0.1 {}
+[12/6/2021, 2:12:16 AM] GET http://localhost:3001/users/5a1f0e10-7df7-4cd8-92b2-34d9181f04d7 insomnia/2021.6.0 ::ffff:172.18.0.1 {}

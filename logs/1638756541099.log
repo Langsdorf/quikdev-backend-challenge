@@ -1,0 +1,14 @@
+[12/6/2021, 2:09:01 AM] Generating routes...
+[12/6/2021, 2:09:01 AM] 2 modules found in src/modules, starting routes...
+[12/6/2021, 2:09:01 AM] Loading routes from auth...
+[12/6/2021, 2:09:01 AM] POST auth/login
+[12/6/2021, 2:09:01 AM] 1 route loaded from auth
+[12/6/2021, 2:09:01 AM] Loading routes from users...
+[12/6/2021, 2:09:01 AM] POST users/
+[12/6/2021, 2:09:01 AM] GET users/
+[12/6/2021, 2:09:01 AM] GET users/:id
+[12/6/2021, 2:09:01 AM] PATCH users/:id
+[12/6/2021, 2:09:01 AM] DELETE users/:id
+[12/6/2021, 2:09:01 AM] 5 routes loaded from users
+[12/6/2021, 2:09:01 AM] Server started on port 3001
+[12/6/2021, 2:09:03 AM] GET http://localhost:3001/users insomnia/2021.6.0 ::ffff:172.18.0.1 {}

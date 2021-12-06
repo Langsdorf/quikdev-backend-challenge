@@ -1,0 +1,10 @@
+[12/6/2021, 2:05:05 AM] POST http://localhost:3001/auth/login insomnia/2021.6.0 ::ffff:172.18.0.1 {}
+[12/6/2021, 2:05:25 AM] POST http://localhost:3001/auth/login insomnia/2021.6.0 ::ffff:172.18.0.1 {"username":"username","password":"password"}
+[12/6/2021, 2:07:17 AM] POST http://localhost:3001/users insomnia/2021.6.0 ::ffff:172.18.0.1 {"name":"name","username":"username","password":"password","birthdate":"birthdate","address":"address","addressNumber":7,"primaryPhone":"primaryPhone","description":"description"}
+[12/6/2021, 2:07:24 AM] POST http://localhost:3001/auth/login insomnia/2021.6.0 ::ffff:172.18.0.1 {"username":"username","password":"password"}
+[12/6/2021, 2:08:13 AM] GET http://localhost:3001/users insomnia/2021.6.0 ::ffff:172.18.0.1 {}
+[12/6/2021, 2:08:18 AM] GET http://localhost:3001/user insomnia/2021.6.0 ::ffff:172.18.0.1 {}
+[12/6/2021, 2:08:20 AM] GET http://localhost:3001/users insomnia/2021.6.0 ::ffff:172.18.0.1 {}
+[12/6/2021, 2:08:22 AM] GET http://localhost:3001/users insomnia/2021.6.0 ::ffff:172.18.0.1 {}
+[12/6/2021, 2:08:27 AM] GET http://localhost:3001/users/ insomnia/2021.6.0 ::ffff:172.18.0.1 {}
+[12/6/2021, 2:08:29 AM] GET http://localhost:3001/users insomnia/2021.6.0 ::ffff:172.18.0.1 {}
